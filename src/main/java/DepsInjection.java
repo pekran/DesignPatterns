@@ -15,6 +15,7 @@ public class DepsInjection {
 //
 //        WebApplication webApplication = ctx.getBean(WebApplication.class);
           webApplication.run();
+
     }
 }
 
